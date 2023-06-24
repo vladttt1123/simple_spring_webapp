@@ -1,0 +1,4 @@
+/.vscode
+/target
+/postgres_connection.session.sql
+.DS_Store
